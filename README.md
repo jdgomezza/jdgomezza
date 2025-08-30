@@ -29,7 +29,7 @@ Python · SQLite · SQL · Matplotlib
 
 ## Learning roadmap
 - Deepening Python data tools: mastering NumPy arrays and Pandas for data wrangling.
-- Next: building real-time ETL pipelines, time-series anomaly detection, dashboards with Matplotlib or Plotly.
+- Next: building real-time ETL pipelines, time-series anomaly detection and dashboards.
 
 
 ## Contact
